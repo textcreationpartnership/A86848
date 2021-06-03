@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble proposal of such particular rules as are necessary to be established for the setling of a registry; presented by way of instance to demonstrate the fesibility [sic] thereof, with submission to better judgments for any amendments or alterations therein.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86848</idno><idno type="EEBO-CITATION">45504474</idno>
+  <idno type="VID">171790</idno>
+  <idno type="EEBO-PROQUEST">2240895817</idno>
+  
+            <idno type="STC">Wing H3593</idno>
+            <idno type="STC">ESTC R225174</idno>
+            <idno type="OCLC">45504474</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171790)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2591:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble proposal of such particular rules as are necessary to be established for the setling of a registry; presented by way of instance to demonstrate the fesibility [sic] thereof, with submission to better judgments for any amendments or alterations therein.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Harper ... ,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>MDCLXXVIII [1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed Febr. 23. 1677/8. Roger L'Estrange."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land titles --  Registration and transfer --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171790:1"/>
+            <p>An Humble PROPOSAL Of such Particular Rules AS ARE Necessary to be Established for the Setling OF A REGISTRY; PRESENTED By way of Instance to demonstrate the Fesibility thereof, with submission to better Judgments for any Amendments or Alterations therein.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED.</p>
+                        <closer>
+                           <signed>Roger L'Estrange.</signed>
+                           <date>
+                              <hi>Febr.</hi> 23. 1677/8.</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Charles Harper,</hi> at the Flower-de-luce over against St. <hi>Dunstan</hi>'s Church in <hi>Fleet-street.</hi> MDCLXXVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:171790:2"/>
+            <pb n="1" facs="tcp:171790:2"/>
+            <head>An Humble Proposal of such particular Rules as are necessary to be Established for the Setling of a Registry, <hi>&amp;c.</hi>
+            </head>
+            <p n="1">I. <seg rend="decorInit">T</seg>Hat an Office for a Registry may be Erected within the Cities of <hi>London</hi> and <hi>Westminster,</hi> and in every County of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and in the Isle of <hi>Wight,</hi> and other such like places, to be constantly kept in some certain place with<g ref="char:EOLhyphen"/>in such Cities or Counties.</p>
+            <p n="2">II. That a proper Person at the nomination of His Majesty, may be Constituted the Register, by Letters Patents for Execution of such Office, giving a thousand pound Security, to be approved of by the Lord Chancellor, for his truth and fidelity.</p>
+            <p n="3">III. That such Register may be bound to keep a large and substantial Book, of the best and strongest sort of Paper, for entring all Estates, Titles and Incumbrances, in such manner as the party concerned shall direct under his Hand and Seal, testified by two Witnesses, to be filed by the Register for his Warrant in so doing.</p>
+            <p n="4">IV. That such Register may keep a distinct Calendar of Lands when Registred, under the Title of that Parish wherein the same Lands lie, for the more easie searching after the same.</p>
+            <p n="5">V. That every Register have leave to execute the said Office, by one or more Clerks whom he shall depute under his Hand and Seal, for that purpose. A true Copy of such Deputations to be always hanging up in the said Office, that all person may know from whom to de<g ref="char:EOLhyphen"/>mand a dispatch of their Business. And such Register
+<pb n="4" facs="tcp:171790:3"/>to be answerable for the misdemeanor of such deputed Clerks.</p>
+            <p n="6">VI. That such Register, or his Clerks, give constant attendance upon the said Office between the hours of Nine and Eleven in the forenoon, and between Three and Five in the Afternoon.</p>
+            <p n="7">VII. That a short extract of all Estates, Titles and In<g ref="char:EOLhyphen"/>cumbrances whatsoever, (except Statutes, Judgments, Recognizances, and Bonds to the King) upon any Lands, Tenements, and Hereditaments, which are or may be charged upon the same, at or before the 26th. day of <hi>March,</hi> 1678. may be Registred in the proper Office of the City or County where such Lands, <hi>&amp;c.</hi> lie, by the 24th. day of <hi>June</hi> then next following. Or otherwise such Estates, Title, or Incumbrance, not being Registred as aforesaid, to be utterly void as to all subsequent pur<g ref="char:EOLhyphen"/>chasers for a valuable consideration, without notice, and such extract to contain the date of the Deed: And all the parties to the same Deed, and all the parcels of Land, <hi>&amp;c.</hi> conteined therein, in the express words of the said Deed, or otherwise, such Estate to be esteemed not well Registred, and the party so Registring to have no benefit thereby.</p>
+            <p n="8">VIII. That from and after the said six and twentieth day of <hi>March,</hi> all Estates, Titles, and Incumbrances (except as before excepted) which shall be charged up<g ref="char:EOLhyphen"/>on any Lands, Tenements, and Hereditaments, shall be Registred within forty days next after the Execution of such Estate, Title, or Incumbrance or otherwise the same to be void against all subsequent Purchasers as a<g ref="char:EOLhyphen"/>foresaid.</p>
+            <p n="9">IX. That the space of one hundred days, or the like be allowed for the Registring of any Will, because it many times happens that between the Heir and Execu<g ref="char:EOLhyphen"/>tor, a Will may receive some delay before it be pro<g ref="char:EOLhyphen"/>duced or proved.</p>
+            <pb n="5" facs="tcp:171790:3"/>
+            <p n="10">X. That the Register be allowed 2 <hi>s.</hi> for every Act that is Registred, as a constant Fee for keeping a fair Ca<g ref="char:EOLhyphen"/>lendar, and at the rate of 6 <hi>d.</hi> for every hundred words that he shal<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enter into his Register Book, according to his Warrant sent him under Hand and Seal.</p>
+            <p n="11">XI. That such Register do enter any Caveat that <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> sent him under Hand and Seal, testefied by two Witnesses, for the Fee of 2 <hi>s.</hi> as aforesaid, and 6 <hi>d.</hi> for every hundred words as aforesaid. And that such Caveat be sufficient notice to any Purchaser, <hi>&amp;c.</hi>
+            </p>
+            <p n="12">XII. That such Register shall make any search that is demanded, at the rate of 4 <hi>d. per</hi> year; and shall give any Certificate required, not exceeding one hundred words for 1 <hi>s.</hi> and so for every hundred words so certi<g ref="char:EOLhyphen"/>fied.</p>
+            <p n="13">XIII. That upon Conviction of any imbezelment of the said Register Book, or any rasing or interlining in the same, not agreeing with such Warrant as shall be given for any thing to be Registred, that such Register shall forfeit treble damages to the party wronged, to be made good out of the 1000 <hi>l.</hi> Security so far as the same will extend: And likewise to forfeit his Office.</p>
+            <p n="14">XIV. That a distinct Office be erected in <hi>London,</hi> near some of the Inns of Court, for Registring all Statutes, Judg<g ref="char:EOLhyphen"/>ments, Recognizances, and Bonds to the King, in such <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lphabetical manner, as to the Names of the Cognizors an<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Cognizees, that upon an easie search such Incum<g ref="char:EOLhyphen"/>brance<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may presently be discovered.</p>
+            <p n="15">XV. That such Officer be limited to some such Rules as <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oresaid, in the Execution of his said Office and con<g ref="char:EOLhyphen"/>cern<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Fees therein.</p>
+            <p n="16">XVI. That the Cognizee do sent a Warrant under Hand and Seal, of the name of the Cognizor and Cog<g ref="char:EOLhyphen"/>nizee, and date of such Statute, Judgment, Recogni<g ref="char:EOLhyphen"/>zane, or Bond to the King, to be entred into the Re<g ref="char:EOLhyphen"/>gisters Book exactly, according to such Warrant, and then the Warrant to be filed by the Register for his ju<g ref="char:EOLhyphen"/>stification.</p>
+            <pb n="6" facs="tcp:171790:4"/>
+            <p n="17">XVII. That once in ten years all Statutes, <hi>&amp;c.</hi> re<g ref="char:EOLhyphen"/>maining in force, be endtred <hi>de novo</hi> in the Registry, at the charge of the Cognizees, which will prevent both the difficulty and charge of searching.</p>
+            <p>From what hath been premised may arise these Considerations.</p>
+            <p>First, That the duty of a Register being only to keep a fair Book for entring what shall be sent to him under Hand and Seal: If the pages of his Book be but numbred, and every Act that is entred be likewise numbred, it will be impossible for him to add or diminish a leaf, or rase or interline any part of such Book, without a manifest detection; and consequently the said Office will not be of so great Trust, but that any indifferent per<g ref="char:EOLhyphen"/>son that can give a thousand pound Security, may be sufficiently qualified for such Office.</p>
+            <p>Secondly, That any person having an Estate or Title to Re<g ref="char:EOLhyphen"/>gister, need but draw a short extract of his Deed, and direct the same by Warrant under his Hand and Seal to the Register to be entred; which may be sent, if requisite, even in a Post Letter, to any place with safety, if he have but an indifferent Friend there to receive it, see it entred, and then examined with the Warrant; which can neither be chargeable nor troublesom.</p>
+            <p>Lastly, That if a man have an hundred Deeds relating to any Estate, whereof he is in Possession (if such be not a redeemable Estate) though the same were Mortgages, or the like, that are kept on foot to preserve the Title to such an Estate, yet he need not Register one of them, because no man can sell an Estate over a mans head that is in possession.</p>
+            <p>
+               <hi>From whence it may reasonably be conluded that there is more in apprehension than in reality over the inconveniences of Registry.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
